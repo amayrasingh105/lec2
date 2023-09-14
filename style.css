@@ -1,0 +1,15 @@
+.my-structure
+{
+    display: flex;
+    flex-direction: row;
+}
+.my-list
+{
+    width: 50%;
+}
+.btn-hover:hover
+{
+    background-color: cyan;
+
+    
+}
